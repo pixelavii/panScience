@@ -20,7 +20,7 @@
 <h2>🚀 Getting Started</h2>
 
 <h3>1️⃣ Clone the Repository</h3>
-<pre><code>git clone https://github.com/yourusername/your-repo.git</code></pre>
+<pre><code>git clone https://github.com/pixelavii/panScience.git</code></pre>
 
 <h3>2️⃣ Install Dependencies</h3>
 <pre><code>npm install</code></pre>
